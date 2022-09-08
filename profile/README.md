@@ -1,4 +1,5 @@
 # :flamingo: Birds of a Feather :flamingo:
+![BoaF](https://github.com/Feather-Flock/.github/issues/1#issuecomment-1241129771)
 
 <!-- PROJECT OVERVIEW -->
 ## :flamingo: Project Overview

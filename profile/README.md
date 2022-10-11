@@ -1,5 +1,5 @@
 # :flamingo: Birds of a Feather :flamingo:
-![BoaF](https://user-images.githubusercontent.com/5219578/189207608-3a38f607-050f-4f99-9920-4bf910b26c0b.png)
+<img width="500" src="https://user-images.githubusercontent.com/99693359/195168265-3a6573b2-7d61-429d-84ff-fecc71948f83.png"/>
 
 <!-- PROJECT OVERVIEW -->
 ## :flamingo: Project Overview
